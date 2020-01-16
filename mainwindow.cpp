@@ -20,4 +20,6 @@ void MainWindow::on_pushButton_clicked()
     qDebug() << "Hello World." << endl;
     qDebug() << "Hello World222222." << endl;
     qDebug() << "Hello World33333." << endl;
+qDebug() << "Hello World4444." << endl;
+
 }
